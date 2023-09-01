@@ -1,0 +1,955 @@
+{
+  "name": "Superliga 2023-2024",
+  "matches": [
+    {
+      "round": "Journée 1",
+      "date": "29-07-2023",
+      "hour": "21h00",
+      "team1": "Cousolre",
+      "team2": "Maubeuge",
+      "score": {
+        "ft": [0, 3]
+      }
+    },
+    {
+      "round": "Journée 1",
+      "date": "30-07-2023",
+      "hour": "15h00",
+      "team1": "Le Quesnoy",
+      "team2": "Jeumont",
+      "score": {
+        "ft": [0, 1]
+      }
+    },
+    {
+      "round": "Journée 1",
+      "date": "30-07-2023",
+      "hour": "18h00",
+      "team1": "Avesnes",
+      "team2": "Bavay",
+      "score": {
+        "ft": [3, 0]
+      }
+    },
+    {
+      "round": "Journée 1",
+      "date": "30-07-2023",
+      "hour": "21h00",
+      "team1": "Hautmont",
+      "team2": "Fourmies",
+      "score": {
+        "ft": [0, 2]
+      }
+    },
+    {
+      "round": "Journée 1",
+      "date": "31-07-2023",
+      "hour": "20h15",
+      "team1": "Aulnoye",
+      "team2": "Hirson",
+      "score": {
+        "ft": [2, 0]
+      }
+    },
+    {
+      "round": "Journée 2",
+      "date": "05-08-2023",
+      "hour": "16h00",
+      "team1": "Fourmies ",
+      "team2": "Aulnoye",
+      "score": {
+        "ft": [3, 2]
+      }
+    },
+    {
+      "round": "Journée 2",
+      "date": "05-08-2023",
+      "hour": "18h30",
+      "team1": "Bavay ",
+      "team2": "Le Quesnoy",
+      "score": {
+        "ft": [2, 1]
+      }
+    },
+    {
+      "round": "Journée 2",
+      "date": "05-08-2023",
+      "hour": "21h00",
+      "team1": "Maubeuge ",
+      "team2": "Avesnes",
+      "score": {
+        "ft": [5, 0]
+      }
+    },
+    {
+      "round": "Journée 2",
+      "date": "06-08-2023",
+      "hour": "18h00",
+      "team1": "Hirson ",
+      "team2": "Cousolre",
+      "score": {
+        "ft": [4, 1]
+      }
+    },
+    {
+      "round": "Journée 2",
+      "date": "06-08-2023",
+      "hour": "21h00",
+      "team1": "Jeumont ",
+      "team2": "Hautmont",
+      "score": {
+        "ft": [0, 1]
+      }
+    },
+    {
+      "round": "Journée 3",
+      "date": "12-08-2023",
+      "hour": "18h30",
+      "team1": "Maubeuge ",
+      "team2": "Bavay",
+      "score": {
+        "ft": [4, 0]
+      }
+    },
+    {
+      "round": "Journée 3",
+      "date": "12-08-2023",
+      "hour": "21h00",
+      "team1": "Cousolre ",
+      "team2": "Fourmies",
+      "score": {
+        "ft": [3, 0]
+      }
+    },
+    {
+      "round": "Journée 3",
+      "date": "13-08-2023",
+      "hour": "18h30",
+      "team1": "Avesnes ",
+      "team2": "Hirson",
+      "score": {
+        "ft": [1, 2]
+      }
+    },
+    {
+      "round": "Journée 3",
+      "date": "13-08-2023",
+      "hour": "21h00",
+      "team1": "Aulnoye ",
+      "team2": "Jeumont",
+      "score": {
+        "ft": [1, 0]
+      }
+    },
+    {
+      "round": "Journée 3",
+      "date": "14-08-2023",
+      "hour": "20h15",
+      "team1": "Hautmont ",
+      "team2": "Le Quesnoy",
+      "score": {
+        "ft": [3, 1]
+      }
+    },
+    {
+      "round": "Journée 4",
+      "date": "19-08-2023",
+      "hour": "16h00",
+      "team1": "Hirson",
+      "team2": "Maubeuge",
+      "score": {
+        "ft": [1, 2]
+      }
+    },
+    {
+      "round": "Journée 4",
+      "date": "19-08-2023",
+      "hour": "18h30",
+      "team1": "Le Quesnoy",
+      "team2": "Aulnoye",
+      "score": {
+        "ft": [2, 1]
+      }
+    },
+    {
+      "round": "Journée 4",
+      "date": "19-08-2023",
+      "hour": "21h00",
+      "team1": "Fourmies",
+      "team2": "Avesnes",
+      "score": {
+        "ft": [0, 2]
+      }
+    },
+    {
+      "round": "Journée 4",
+      "date": "20-08-2023",
+      "hour": "18h00",
+      "team1": "Bavay",
+      "team2": "Hautmont",
+      "score": {
+        "ft": [1, 0]
+      }
+    },
+    {
+      "round": "Journée 4",
+      "date": "20-08-2023",
+      "hour": "21h00",
+      "team1": "Jeumont",
+      "team2": "Cousolre",
+      "score": {
+        "ft": [3, 0]
+      }
+    },
+    {
+      "round": "Journée 5",
+      "date": "26-08-2023",
+      "hour": "18h30",
+      "team1": "Cousolre",
+      "team2": "Le Quesnoy",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 5",
+      "date": "26-08-2023",
+      "hour": "21h00",
+      "team1": "Hirson",
+      "team2": "Bavay",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 5",
+      "date": "27-08-2023",
+      "hour": "21h00",
+      "team1": "Maubeuge",
+      "team2": "Fourmies",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 5",
+      "date": "26-09-2023",
+      "hour": "20h15",
+      "team1": "Avesnes",
+      "team2": "Jeumont",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 5",
+      "date": "27-09-2023",
+      "hour": "20h15",
+      "team1": "Aulnoye",
+      "team2": "Hautmont",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 6",
+      "date": "02-09-2023",
+      "hour": "18h30",
+      "team1": "Bavay",
+      "team2": "Aulnoye",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 6",
+      "date": "02-09-2023",
+      "hour": "21h00",
+      "team1": "Fourmies",
+      "team2": "Hirson",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 6",
+      "date": "03-09-2023",
+      "hour": "17h00",
+      "team1": "Le Quesnoy",
+      "team2": "Avesnes",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 6",
+      "date": "03-09-2023",
+      "hour": "19h00",
+      "team1": "Hautmont",
+      "team2": "Cousolre",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 6",
+      "date": "03-09-2023",
+      "hour": "21h00",
+      "team1": "Jeumont",
+      "team2": "Maubeuge",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 7",
+      "date": "16-09-2023",
+      "hour": "21h00",
+      "team1": "Cousolre",
+      "team2": "Aulnoye",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 7",
+      "date": "16-09-2023",
+      "hour": "21h00",
+      "team1": "Hirson",
+      "team2": "Jeumont",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 7",
+      "date": "16-09-2023",
+      "hour": "21h00",
+      "team1": "Avesnes",
+      "team2": "Hautmont",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 7",
+      "date": "16-09-2023",
+      "hour": "21h00",
+      "team1": "Maubeuge",
+      "team2": "Le Quesnoy",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 7",
+      "date": "16-09-2023",
+      "hour": "21h00",
+      "team1": "Fourmies",
+      "team2": "Bavay",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 8",
+      "date": "23-09-2023",
+      "hour": "21h00",
+      "team1": "Cousolre",
+      "team2": "Bavay",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 8",
+      "date": "23-09-2023",
+      "hour": "21h00",
+      "team1": "Aulnoye",
+      "team2": "Avesnes",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 8",
+      "date": "23-09-2023",
+      "hour": "21h00",
+      "team1": "Le Quesnoy",
+      "team2": "Hirson",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 8",
+      "date": "23-09-2023",
+      "hour": "21h00",
+      "team1": "Jeumont",
+      "team2": "Fourmies",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 8",
+      "date": "23-09-2023",
+      "hour": "21h00",
+      "team1": "Hautmont",
+      "team2": "Maubeuge",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 9",
+      "date": "30-09-2023",
+      "hour": "21h00",
+      "team1": "Hirson",
+      "team2": "Hautmont",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 9",
+      "date": "30-09-2023",
+      "hour": "21h00",
+      "team1": "Avesnes",
+      "team2": "Cousolre",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 9",
+      "date": "30-09-2023",
+      "hour": "21h00",
+      "team1": "Bavay",
+      "team2": "Jeumont",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 9",
+      "date": "30-09-2023",
+      "hour": "21h00",
+      "team1": "Aulnoye",
+      "team2": "Maubeuge",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 9",
+      "date": "30-09-2023",
+      "hour": "21h00",
+      "team1": "Fourmies",
+      "team2": "Le Quesnoy",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 10",
+      "date": "06-10-2023",
+      "hour": "21h00",
+      "team1": "Aulnoye",
+      "team2": "Fourmies ",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 10",
+      "date": "06-10-2023",
+      "hour": "21h00",
+      "team1": "Le Quesnoy",
+      "team2": "Bavay ",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 10",
+      "date": "06-10-2023",
+      "hour": "21h00",
+      "team1": "Avesnes",
+      "team2": "Maubeuge ",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 10",
+      "date": "06-10-2023",
+      "hour": "21h00",
+      "team1": "Cousolre",
+      "team2": "Hirson ",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 10",
+      "date": "06-10-2023",
+      "hour": "21h00",
+      "team1": "Hautmont",
+      "team2": "Jeumont ",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 11",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 11",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 11",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 11",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 11",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 12",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 12",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 12",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 12",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 12",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 14",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 14",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 14",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 14",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 14",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 15",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 15",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 15",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 15",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 15",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 13",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 16",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 16",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 16",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 16",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 16",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 17",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 17",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 17",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 17",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 17",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 18",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 18",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 18",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 18",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    },
+    {
+      "round": "Journée 18",
+      "date": "",
+      "hour": "",
+      "team1": "",
+      "team2": "",
+      "score": {
+        "ft": [null, null]
+      }
+    }
+  ]
+}

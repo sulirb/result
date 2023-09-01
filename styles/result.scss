@@ -1,0 +1,41 @@
+body {
+  max-height: 500px;
+  background-color: black;
+  color: beige;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  a {
+    text-decoration: none;
+    font-size: 18px;
+  }
+}
+
+.scores {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.score {
+  width: 25%;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid white;
+  p {
+    margin: 0.1em;
+  }
+  .finalScore {
+    font-family: impact;
+    margin: 0 0.2em;
+  }
+}
+
+@media (max-width: 1024px) {
+  .score {
+    width: 50%;
+  }
+}
