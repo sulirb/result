@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "convert-csv-to-json": "^2.0.0",
+    "csvtojson": "^2.0.10"
   }
 }

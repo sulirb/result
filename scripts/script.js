@@ -8,15 +8,13 @@ async function main() {
   const data = await fetchResult();
   const ligue = document.querySelector(".ligue");
   ligue.textContent = data.name;
-  const anchorHTML = `<a href="table.html"> (classement)</a>`;
-  ligue.insertAdjacentHTML("beforeend", anchorHTML);
 
   const scores = document.querySelector(".scores");
   let currentRound;
 
   for (const match of data.matches) {
-    const score1 = match.score.ft[0];
-    const score2 = match.score.ft[1];
+    const score1 = match.score1;
+    const score2 = match.score2;
 
     if (match.round === currentRound) {
     } else {
