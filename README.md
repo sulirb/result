@@ -5,7 +5,7 @@ L'application Create Results affiche les résultats de matchs à partir d'un fic
 
 ## Installation
 
-- Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
+- Clonez ce dépôt sur votre machine en local en utilisant la commande suivante sur votre éditeur de texte:
   git clone https://github.com/sulirb/result.git
 
 - Accédez au répertoire du projet :
