@@ -32,6 +32,16 @@ h1 a {
 .score .finalScore {
   font-family: impact;
   margin: 0 0.2em;
+  width: 10%;
+  text-align: center;
+}
+.score .team1 {
+  width: 25%;
+  margin-left: 2em;
+}
+.score .team2 {
+  width: 25%;
+  text-align: end;
 }
 
 @media (max-width: 1024px) {

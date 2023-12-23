@@ -1,5 +1,5 @@
 async function fetchResult() {
-  const response = await fetch("/assets/superliga2324.json");
+  const response = await fetch("/assets/ligue-1-22-23.json");
   const data = await response.json();
   return data;
 }
@@ -10,17 +10,17 @@ async function main() {
   ligue.textContent = data.name;
 
   const scores = document.querySelector(".scores");
-  let currentRound;
+  let currentJournée;
 
   for (const match of data.matches) {
     const score1 = match.score1;
     const score2 = match.score2;
 
-    if (match.round === currentRound) {
+    if (match.Journée === currentJournée) {
     } else {
-      currentRound = match.round;
+      currentJournée = match.Journée;
       const heading = document.createElement("h2");
-      heading.textContent = currentRound;
+      heading.textContent = currentJournée;
       scores.appendChild(heading);
     }
 
@@ -54,6 +54,8 @@ async function main() {
     }
 
     score.classList.add("finalScore");
+    team1.classList.add("team1");
+    team2.classList.add("team2");
   }
 }
 
