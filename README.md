@@ -14,7 +14,7 @@ L'application Create Results affiche les résultats de matchs à partir d'un fic
   git clone https://github.com/sulirb/result.git
 
 - Accédez au répertoire du projet :
-  cd votre-repo
+  cd result
 
 - Installez les dépendances en utilisant npm :
   npm install
