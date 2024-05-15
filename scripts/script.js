@@ -6,6 +6,7 @@ async function fetchResult() {
 
 async function main() {
   const data = await fetchResult();
+  console.log(data);
   const ligue = document.querySelector(".ligue");
   ligue.textContent = data.name;
 
@@ -16,12 +17,15 @@ async function main() {
     const score1 = match.score1;
     const score2 = match.score2;
 
-    if (match.Journée === currentJournée) {
+    if (match.round === currentJournée) {
     } else {
-      currentJournée = match.Journée;
+      currentJournée = match.round;
       const heading = document.createElement("h2");
-      heading.textContent = currentJournée;
+      heading.textContent = "Journée " + currentJournée;
       scores.appendChild(heading);
+      if (heading.innerHTML === "Journée 1") {
+        heading.classList.add("no-border");
+      }
     }
 
     const worksElmt = scores.appendChild(document.createElement("div"));
@@ -44,15 +48,17 @@ async function main() {
     worksElmt.appendChild(team2);
 
     if (score1 > score2) {
-      team1.style.fontWeight = "700";
+      team1.style.fontWeight = "900";
     } else if (score2 > score1) {
-      team2.style.fontWeight = "700";
+      team2.style.fontWeight = "900";
     }
 
     if (score1 === null || score2 === null) {
       score.textContent = ` - `;
     }
 
+    date.classList.add("date");
+    hour.classList.add("hour");
     score.classList.add("finalScore");
     team1.classList.add("team1");
     team2.classList.add("team2");

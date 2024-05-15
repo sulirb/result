@@ -10,7 +10,7 @@ csv()
   .then((jsonArrayObj) => {
     // Structure JSON à ajouter à chaque ligne
     const dataToAdd = {
-      name: "Ligue 1 2022-2023",
+      name: "Superliga 2023-2024",
       matches: jsonArrayObj,
     };
 

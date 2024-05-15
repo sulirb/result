@@ -1,8 +1,8 @@
 {
-  "name": "Ligue 1 2022-2023",
+  "name": "Superliga 2023-2024",
   "matches": [
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "05/08/22",
       "hour": "",
       "team1": "Lyon",
@@ -11,7 +11,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "06/08/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -20,7 +20,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "06/08/22",
       "hour": "",
       "team1": "Clermont",
@@ -29,7 +29,7 @@
       "score2": "5"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Toulouse",
@@ -38,7 +38,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Angers",
@@ -47,7 +47,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Lille",
@@ -56,7 +56,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Montpellier",
@@ -65,7 +65,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Lens",
@@ -74,7 +74,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Rennes",
@@ -83,7 +83,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 1",
+      "round": "1",
       "date": "07/08/22",
       "hour": "",
       "team1": "Marseille",
@@ -92,7 +92,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "12/08/22",
       "hour": "",
       "team1": "Nantes",
@@ -101,7 +101,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "13/08/22",
       "hour": "",
       "team1": "Monaco",
@@ -110,7 +110,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "13/08/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -119,7 +119,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -128,7 +128,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Auxerre",
@@ -137,7 +137,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Troyes",
@@ -146,7 +146,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Reims",
@@ -155,7 +155,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Nice",
@@ -164,7 +164,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Brest",
@@ -173,7 +173,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 2",
+      "round": "2",
       "date": "14/08/22",
       "hour": "",
       "team1": "Lorient",
@@ -182,7 +182,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "19/08/22",
       "hour": "",
       "team1": "Lyon",
@@ -191,7 +191,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "20/08/22",
       "hour": "",
       "team1": "Monaco",
@@ -200,7 +200,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "20/08/22",
       "hour": "",
       "team1": "Marseille",
@@ -209,7 +209,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -218,7 +218,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Angers",
@@ -227,7 +227,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Clermont",
@@ -236,7 +236,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Montpellier",
@@ -245,7 +245,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Toulouse",
@@ -254,7 +254,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Rennes",
@@ -263,7 +263,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 3",
+      "round": "3",
       "date": "21/08/22",
       "hour": "",
       "team1": "Lille",
@@ -272,7 +272,7 @@
       "score2": "7"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "26/08/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -281,7 +281,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "27/08/22",
       "hour": "",
       "team1": "Auxerre",
@@ -290,7 +290,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "27/08/22",
       "hour": "",
       "team1": "Lens",
@@ -299,7 +299,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Nantes",
@@ -308,7 +308,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Troyes",
@@ -317,7 +317,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Lorient",
@@ -326,7 +326,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Nice",
@@ -335,7 +335,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Brest",
@@ -344,7 +344,7 @@
       "score2": "7"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Reims",
@@ -353,7 +353,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 4",
+      "round": "4",
       "date": "28/08/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -362,7 +362,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "31/08/22",
       "hour": "",
       "team1": "Angers",
@@ -371,7 +371,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Monaco",
@@ -380,7 +380,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Montpellier",
@@ -389,7 +389,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Lyon",
@@ -398,7 +398,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -407,7 +407,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Lille",
@@ -416,7 +416,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Marseille",
@@ -425,7 +425,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Lens",
@@ -434,7 +434,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Rennes",
@@ -443,7 +443,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 5",
+      "round": "5",
       "date": "01/09/22",
       "hour": "",
       "team1": "Toulouse",
@@ -452,7 +452,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "03/09/22",
       "hour": "",
       "team1": "Auxerre",
@@ -461,7 +461,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "03/09/22",
       "hour": "",
       "team1": "Lyon",
@@ -470,7 +470,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "03/09/22",
       "hour": "",
       "team1": "Nantes",
@@ -479,7 +479,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Montpellier",
@@ -488,7 +488,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -497,7 +497,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Clermont",
@@ -506,7 +506,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Brest",
@@ -515,7 +515,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Reims",
@@ -524,7 +524,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Troyes",
@@ -533,7 +533,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 6",
+      "round": "6",
       "date": "04/09/22",
       "hour": "",
       "team1": "Nice",
@@ -542,7 +542,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "09/09/22",
       "hour": "",
       "team1": "Lens",
@@ -551,7 +551,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "10/09/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -560,7 +560,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "10/09/22",
       "hour": "",
       "team1": "Marseille",
@@ -569,7 +569,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -578,7 +578,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -587,7 +587,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Angers",
@@ -596,7 +596,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Lorient",
@@ -605,7 +605,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Toulouse",
@@ -614,7 +614,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Rennes",
@@ -623,7 +623,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 7",
+      "round": "7",
       "date": "11/09/22",
       "hour": "",
       "team1": "Monaco",
@@ -632,7 +632,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "16/09/22",
       "hour": "",
       "team1": "Auxerre",
@@ -641,7 +641,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "17/09/22",
       "hour": "",
       "team1": "Montpellier",
@@ -650,7 +650,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Lille",
@@ -659,7 +659,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Reims",
@@ -668,7 +668,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Clermont",
@@ -677,7 +677,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Nice",
@@ -686,7 +686,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Marseille",
@@ -695,7 +695,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Brest",
@@ -704,7 +704,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Nantes",
@@ -713,7 +713,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 8",
+      "round": "8",
       "date": "18/09/22",
       "hour": "",
       "team1": "Lyon",
@@ -722,7 +722,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "30/09/22",
       "hour": "",
       "team1": "Angers",
@@ -731,7 +731,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "01/10/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -740,7 +740,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "01/10/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -749,7 +749,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Lorient",
@@ -758,7 +758,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -767,7 +767,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Auxerre",
@@ -776,7 +776,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Troyes",
@@ -785,7 +785,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Toulouse",
@@ -794,7 +794,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Monaco",
@@ -803,7 +803,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 9",
+      "round": "9",
       "date": "02/10/22",
       "hour": "",
       "team1": "Lens",
@@ -812,7 +812,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "07/10/22",
       "hour": "",
       "team1": "Lyon",
@@ -821,7 +821,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "08/10/22",
       "hour": "",
       "team1": "Marseille",
@@ -830,7 +830,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Reims",
@@ -839,7 +839,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Montpellier",
@@ -848,7 +848,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Angers",
@@ -857,7 +857,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Clermont",
@@ -866,7 +866,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Nice",
@@ -875,7 +875,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Brest",
@@ -884,7 +884,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Rennes",
@@ -893,7 +893,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 10",
+      "round": "10",
       "date": "09/10/22",
       "hour": "",
       "team1": "Lille",
@@ -902,7 +902,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "14/10/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -911,7 +911,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "15/10/22",
       "hour": "",
       "team1": "Lorient",
@@ -920,7 +920,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Lens",
@@ -929,7 +929,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Toulouse",
@@ -938,7 +938,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Auxerre",
@@ -947,7 +947,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Troyes",
@@ -956,7 +956,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Nantes",
@@ -965,7 +965,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Rennes",
@@ -974,7 +974,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Monaco",
@@ -983,7 +983,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 11",
+      "round": "11",
       "date": "16/10/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -992,7 +992,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "21/10/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -1001,7 +1001,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "22/10/22",
       "hour": "",
       "team1": "Montpellier",
@@ -1010,7 +1010,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "22/10/22",
       "hour": "",
       "team1": "Marseille",
@@ -1019,7 +1019,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Angers",
@@ -1028,7 +1028,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Clermont",
@@ -1037,7 +1037,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Troyes",
@@ -1046,7 +1046,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Reims",
@@ -1055,7 +1055,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Toulouse",
@@ -1064,7 +1064,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Nice",
@@ -1073,7 +1073,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 12",
+      "round": "12",
       "date": "23/10/22",
       "hour": "",
       "team1": "Lille",
@@ -1082,7 +1082,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "28/10/22",
       "hour": "",
       "team1": "Lens",
@@ -1091,7 +1091,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "29/10/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -1100,7 +1100,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -1109,7 +1109,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Auxerre",
@@ -1118,7 +1118,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Monaco",
@@ -1127,7 +1127,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Nantes",
@@ -1136,7 +1136,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Brest",
@@ -1145,7 +1145,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Rennes",
@@ -1154,7 +1154,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Lorient",
@@ -1163,7 +1163,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 13",
+      "round": "13",
       "date": "30/10/22",
       "hour": "",
       "team1": "Lyon",
@@ -1172,7 +1172,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "04/11/22",
       "hour": "",
       "team1": "Troyes",
@@ -1181,7 +1181,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "05/11/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -1190,7 +1190,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Angers",
@@ -1199,7 +1199,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Lorient",
@@ -1208,7 +1208,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Clermont",
@@ -1217,7 +1217,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Nice",
@@ -1226,7 +1226,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Reims",
@@ -1235,7 +1235,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Toulouse",
@@ -1244,7 +1244,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Lille",
@@ -1253,7 +1253,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 14",
+      "round": "14",
       "date": "06/11/22",
       "hour": "",
       "team1": "Marseille",
@@ -1262,7 +1262,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "11/11/22",
       "hour": "",
       "team1": "Lyon",
@@ -1271,7 +1271,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "12/11/22",
       "hour": "",
       "team1": "Lens",
@@ -1280,7 +1280,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Rennes",
@@ -1289,7 +1289,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -1298,7 +1298,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Nantes",
@@ -1307,7 +1307,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Lille",
@@ -1316,7 +1316,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Montpellier",
@@ -1325,7 +1325,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Brest",
@@ -1334,7 +1334,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Strasbourg",
@@ -1343,7 +1343,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 15",
+      "round": "15",
       "date": "13/11/22",
       "hour": "",
       "team1": "Monaco",
@@ -1352,7 +1352,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "28/12/22",
       "hour": "",
       "team1": "Ajaccio",
@@ -1361,7 +1361,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "28/12/22",
       "hour": "",
       "team1": "Troyes",
@@ -1370,7 +1370,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "28/12/22",
       "hour": "",
       "team1": "Auxerre",
@@ -1379,7 +1379,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "28/12/22",
       "hour": "",
       "team1": "Clermont",
@@ -1388,7 +1388,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "28/12/22",
       "hour": "",
       "team1": "Paris-SG",
@@ -1397,7 +1397,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "28/12/22",
       "hour": "",
       "team1": "Brest",
@@ -1406,7 +1406,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "29/12/22",
       "hour": "",
       "team1": "Lorient",
@@ -1415,7 +1415,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "29/12/22",
       "hour": "",
       "team1": "Reims",
@@ -1424,7 +1424,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "29/12/22",
       "hour": "",
       "team1": "Nice",
@@ -1433,7 +1433,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 16",
+      "round": "16",
       "date": "29/12/22",
       "hour": "",
       "team1": "Marseille",
@@ -1442,7 +1442,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "01/01/23",
       "hour": "",
       "team1": "Angers",
@@ -1451,7 +1451,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "01/01/23",
       "hour": "",
       "team1": "Monaco",
@@ -1460,7 +1460,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "01/01/23",
       "hour": "",
       "team1": "Nantes",
@@ -1469,7 +1469,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "01/01/23",
       "hour": "",
       "team1": "Toulouse",
@@ -1478,7 +1478,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "01/01/23",
       "hour": "",
       "team1": "Lyon",
@@ -1487,7 +1487,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "01/01/23",
       "hour": "",
       "team1": "Lens",
@@ -1496,7 +1496,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "02/01/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -1505,7 +1505,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "02/01/23",
       "hour": "",
       "team1": "Lille",
@@ -1514,7 +1514,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "02/01/23",
       "hour": "",
       "team1": "Montpellier",
@@ -1523,7 +1523,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 17",
+      "round": "17",
       "date": "02/01/23",
       "hour": "",
       "team1": "Rennes",
@@ -1532,7 +1532,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -1541,7 +1541,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Auxerre",
@@ -1550,7 +1550,7 @@
       "score2": "5"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Clermont",
@@ -1559,7 +1559,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Nantes",
@@ -1568,7 +1568,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Brest",
@@ -1577,7 +1577,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Troyes",
@@ -1586,7 +1586,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Lorient",
@@ -1595,7 +1595,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Nice",
@@ -1604,7 +1604,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -1613,7 +1613,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 18",
+      "round": "18",
       "date": "11/01/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -1622,7 +1622,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "14/01/23",
       "hour": "",
       "team1": "Lens",
@@ -1631,7 +1631,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "14/01/23",
       "hour": "",
       "team1": "Marseille",
@@ -1640,7 +1640,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Lyon",
@@ -1649,7 +1649,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Lille",
@@ -1658,7 +1658,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Angers",
@@ -1667,7 +1667,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Montpellier",
@@ -1676,7 +1676,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Reims",
@@ -1685,7 +1685,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Toulouse",
@@ -1694,7 +1694,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Monaco",
@@ -1703,7 +1703,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 19",
+      "round": "19",
       "date": "15/01/23",
       "hour": "",
       "team1": "Rennes",
@@ -1712,7 +1712,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "27/01/23",
       "hour": "",
       "team1": "Lorient",
@@ -1721,7 +1721,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "28/01/23",
       "hour": "",
       "team1": "Troyes",
@@ -1730,7 +1730,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "28/01/23",
       "hour": "",
       "team1": "Marseille",
@@ -1739,7 +1739,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Nice",
@@ -1748,7 +1748,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Auxerre",
@@ -1757,7 +1757,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Clermont",
@@ -1766,7 +1766,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -1775,7 +1775,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Brest",
@@ -1784,7 +1784,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -1793,7 +1793,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 20",
+      "round": "20",
       "date": "29/01/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -1802,7 +1802,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Angers",
@@ -1811,7 +1811,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Nantes",
@@ -1820,7 +1820,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Lille",
@@ -1829,16 +1829,16 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Reims",
-      "team2": "Rennes",
+      "team2": "Lorient",
       "score1": "4",
       "score2": "2"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Toulouse",
@@ -1847,7 +1847,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Monaco",
@@ -1856,7 +1856,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Montpellier",
@@ -1865,7 +1865,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Lyon",
@@ -1874,7 +1874,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Lens",
@@ -1883,7 +1883,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 21",
+      "round": "21",
       "date": "01/02/23",
       "hour": "",
       "team1": "Rennes",
@@ -1892,7 +1892,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "04/02/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -1901,7 +1901,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "04/02/23",
       "hour": "",
       "team1": "Troyes",
@@ -1910,7 +1910,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "04/02/23",
       "hour": "",
       "team1": "Rennes",
@@ -1919,7 +1919,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Clermont",
@@ -1928,7 +1928,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -1937,7 +1937,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Auxerre",
@@ -1946,7 +1946,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Lorient",
@@ -1955,7 +1955,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -1964,7 +1964,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Brest",
@@ -1973,7 +1973,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 22",
+      "round": "22",
       "date": "05/02/23",
       "hour": "",
       "team1": "Marseille",
@@ -1982,7 +1982,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "10/02/23",
       "hour": "",
       "team1": "Nice",
@@ -1991,7 +1991,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "11/02/23",
       "hour": "",
       "team1": "Monaco",
@@ -2000,7 +2000,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Clermont",
@@ -2009,7 +2009,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Toulouse",
@@ -2018,7 +2018,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Angers",
@@ -2027,7 +2027,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Lille",
@@ -2036,7 +2036,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Montpellier",
@@ -2045,7 +2045,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Reims",
@@ -2054,7 +2054,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Nantes",
@@ -2063,7 +2063,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 23",
+      "round": "23",
       "date": "12/02/23",
       "hour": "",
       "team1": "Lyon",
@@ -2072,7 +2072,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "17/02/23",
       "hour": "",
       "team1": "Auxerre",
@@ -2081,7 +2081,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "18/02/23",
       "hour": "",
       "team1": "Nice",
@@ -2090,7 +2090,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -2099,7 +2099,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -2108,7 +2108,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Troyes",
@@ -2117,7 +2117,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Lorient",
@@ -2126,7 +2126,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Brest",
@@ -2135,7 +2135,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Rennes",
@@ -2144,7 +2144,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Lens",
@@ -2153,7 +2153,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 24",
+      "round": "24",
       "date": "19/02/23",
       "hour": "",
       "team1": "Toulouse",
@@ -2162,7 +2162,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "24/02/23",
       "hour": "",
       "team1": "Lille",
@@ -2171,7 +2171,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "25/02/23",
       "hour": "",
       "team1": "Angers",
@@ -2180,7 +2180,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Montpellier",
@@ -2189,7 +2189,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Lorient",
@@ -2198,7 +2198,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -2207,7 +2207,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Clermont",
@@ -2216,16 +2216,25 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Nantes",
-      "team2": "Reims",
+      "team2": "Rennes",
       "score1": "0",
       "score2": "1"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
+      "date": "26/02/23",
+      "hour": "",
+      "team1": "Reims",
+      "team2": "Toulouse",
+      "score1": "3",
+      "score2": "0"
+    },
+    {
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Monaco",
@@ -2234,16 +2243,25 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 25",
+      "round": "25",
       "date": "26/02/23",
       "hour": "",
       "team1": "Marseille",
-      "team2": "Toulouse",
+      "team2": "Paris-SG",
       "score1": "0",
       "score2": "3"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
+      "date": "03/03/23",
+      "hour": "",
+      "team1": "Brest",
+      "team2": "Angers",
+      "score1": "1",
+      "score2": "0"
+    },
+    {
+      "round": "26",
       "date": "03/03/23",
       "hour": "",
       "team1": "Nice",
@@ -2252,7 +2270,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "04/03/23",
       "hour": "",
       "team1": "Lens",
@@ -2261,7 +2279,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -2270,7 +2288,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Troyes",
@@ -2279,7 +2297,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Montpellier",
@@ -2288,7 +2306,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Reims",
@@ -2297,7 +2315,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Toulouse",
@@ -2306,7 +2324,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Lyon",
@@ -2315,7 +2333,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 26",
+      "round": "26",
       "date": "05/03/23",
       "hour": "",
       "team1": "Rennes",
@@ -2324,7 +2342,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "10/03/23",
       "hour": "",
       "team1": "Lille",
@@ -2333,7 +2351,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "11/03/23",
       "hour": "",
       "team1": "Auxerre",
@@ -2342,7 +2360,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Brest",
@@ -2351,7 +2369,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Clermont",
@@ -2360,7 +2378,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -2369,7 +2387,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Angers",
@@ -2378,7 +2396,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Lorient",
@@ -2387,7 +2405,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Nantes",
@@ -2396,7 +2414,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Monaco",
@@ -2405,7 +2423,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 27",
+      "round": "27",
       "date": "12/03/23",
       "hour": "",
       "team1": "Marseille",
@@ -2414,7 +2432,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "17/03/23",
       "hour": "",
       "team1": "Lyon",
@@ -2423,7 +2441,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "18/03/23",
       "hour": "",
       "team1": "Toulouse",
@@ -2432,7 +2450,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Lens",
@@ -2441,7 +2459,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -2450,7 +2468,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Troyes",
@@ -2459,7 +2477,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Montpellier",
@@ -2468,7 +2486,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Nice",
@@ -2477,7 +2495,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -2486,7 +2504,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -2495,7 +2513,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 28",
+      "round": "28",
       "date": "19/03/23",
       "hour": "",
       "team1": "Reims",
@@ -2504,7 +2522,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "31/03/23",
       "hour": "",
       "team1": "Marseille",
@@ -2513,7 +2531,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "01/04/23",
       "hour": "",
       "team1": "Auxerre",
@@ -2522,7 +2540,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Rennes",
@@ -2531,7 +2549,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Lille",
@@ -2540,7 +2558,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Angers",
@@ -2549,7 +2567,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Clermont",
@@ -2558,7 +2576,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Nantes",
@@ -2567,7 +2585,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Brest",
@@ -2576,7 +2594,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Monaco",
@@ -2585,7 +2603,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 29",
+      "round": "29",
       "date": "02/04/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -2594,7 +2612,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "07/04/23",
       "hour": "",
       "team1": "Lens",
@@ -2603,7 +2621,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "08/04/23",
       "hour": "",
       "team1": "Angers",
@@ -2612,7 +2630,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Nice",
@@ -2621,7 +2639,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Lyon",
@@ -2630,7 +2648,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -2639,7 +2657,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Troyes",
@@ -2648,7 +2666,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Montpellier",
@@ -2657,7 +2675,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Reims",
@@ -2666,7 +2684,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Nantes",
@@ -2675,7 +2693,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 30",
+      "round": "30",
       "date": "09/04/23",
       "hour": "",
       "team1": "Lorient",
@@ -2684,7 +2702,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "14/04/23",
       "hour": "",
       "team1": "Toulouse",
@@ -2693,7 +2711,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "15/04/23",
       "hour": "",
       "team1": "Rennes",
@@ -2702,7 +2720,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -2711,7 +2729,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Lille",
@@ -2720,7 +2738,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Auxerre",
@@ -2729,7 +2747,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Clermont",
@@ -2738,7 +2756,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -2747,7 +2765,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Brest",
@@ -2756,7 +2774,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Monaco",
@@ -2765,7 +2783,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 31",
+      "round": "31",
       "date": "16/04/23",
       "hour": "",
       "team1": "Marseille",
@@ -2774,7 +2792,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "21/04/23",
       "hour": "",
       "team1": "Angers",
@@ -2783,7 +2801,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "22/04/23",
       "hour": "",
       "team1": "Auxerre",
@@ -2792,7 +2810,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Lens",
@@ -2801,7 +2819,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Reims",
@@ -2810,7 +2828,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -2819,7 +2837,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Lorient",
@@ -2828,7 +2846,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Nantes",
@@ -2837,7 +2855,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Nice",
@@ -2846,7 +2864,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Montpellier",
@@ -2855,7 +2873,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 32",
+      "round": "32",
       "date": "23/04/23",
       "hour": "",
       "team1": "Lyon",
@@ -2864,7 +2882,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "28/04/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -2873,7 +2891,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "29/04/23",
       "hour": "",
       "team1": "Lille",
@@ -2882,7 +2900,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "30/04/23",
       "hour": "",
       "team1": "Monaco",
@@ -2891,7 +2909,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "01/05/23",
       "hour": "",
       "team1": "Clermont",
@@ -2900,7 +2918,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "01/05/23",
       "hour": "",
       "team1": "Troyes",
@@ -2909,7 +2927,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "01/05/23",
       "hour": "",
       "team1": "Rennes",
@@ -2918,7 +2936,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "01/05/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -2927,7 +2945,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "02/05/23",
       "hour": "",
       "team1": "Marseille",
@@ -2936,7 +2954,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "03/05/23",
       "hour": "",
       "team1": "Toulouse",
@@ -2945,7 +2963,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 33",
+      "round": "33",
       "date": "04/05/23",
       "hour": "",
       "team1": "Brest",
@@ -2954,7 +2972,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "06/05/23",
       "hour": "",
       "team1": "Nice",
@@ -2963,7 +2981,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Reims",
@@ -2972,7 +2990,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Lens",
@@ -2981,7 +2999,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Angers",
@@ -2990,7 +3008,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -2999,7 +3017,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Auxerre",
@@ -3008,7 +3026,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Lorient",
@@ -3017,7 +3035,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Nantes",
@@ -3026,7 +3044,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Lyon",
@@ -3035,7 +3053,7 @@
       "score2": "4"
     },
     {
-      "Journée": "Journée 34",
+      "round": "34",
       "date": "07/05/23",
       "hour": "",
       "team1": "Troyes",
@@ -3044,7 +3062,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "12/05/23",
       "hour": "",
       "team1": "Lens",
@@ -3053,7 +3071,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "13/05/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -3062,7 +3080,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "13/05/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -3071,7 +3089,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "14/05/23",
       "hour": "",
       "team1": "Clermont",
@@ -3080,16 +3098,16 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "14/05/23",
       "hour": "",
       "team1": "Montpellier",
-      "team2": "Brest",
+      "team2": "Lorient",
       "score1": "1",
       "score2": "1"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "14/05/23",
       "hour": "",
       "team1": "Rennes",
@@ -3098,7 +3116,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "14/05/23",
       "hour": "",
       "team1": "Toulouse",
@@ -3107,7 +3125,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "14/05/23",
       "hour": "",
       "team1": "Monaco",
@@ -3116,7 +3134,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 35",
+      "round": "35",
       "date": "14/05/23",
       "hour": "",
       "team1": "Marseille",
@@ -3125,7 +3143,16 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 36",
+      "round": "35",
+      "date": "14/05/23",
+      "hour": "",
+      "team1": "Brest",
+      "team2": "Auxerre",
+      "score1": "1",
+      "score2": "1"
+    },
+    {
+      "round": "36",
       "date": "19/05/23",
       "hour": "",
       "team1": "Lyon",
@@ -3134,7 +3161,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "20/05/23",
       "hour": "",
       "team1": "Nantes",
@@ -3143,7 +3170,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "20/05/23",
       "hour": "",
       "team1": "Lille",
@@ -3152,7 +3179,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -3161,7 +3188,7 @@
       "score2": "5"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Troyes",
@@ -3170,7 +3197,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Nice",
@@ -3179,7 +3206,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Brest",
@@ -3188,7 +3215,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Reims",
@@ -3197,7 +3224,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Lorient",
@@ -3206,7 +3233,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 36",
+      "round": "36",
       "date": "21/05/23",
       "hour": "",
       "team1": "Auxerre",
@@ -3215,7 +3242,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Angers",
@@ -3224,7 +3251,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Clermont",
@@ -3233,7 +3260,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Lille",
@@ -3242,7 +3269,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Montpellier",
@@ -3251,7 +3278,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Marseille",
@@ -3260,7 +3287,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Lyon",
@@ -3269,7 +3296,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Lens",
@@ -3278,7 +3305,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Strasbourg",
@@ -3287,7 +3314,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Rennes",
@@ -3296,7 +3323,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 37",
+      "round": "37",
       "date": "27/05/23",
       "hour": "",
       "team1": "Toulouse",
@@ -3305,7 +3332,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Ajaccio",
@@ -3314,7 +3341,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Auxerre",
@@ -3323,7 +3350,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Monaco",
@@ -3332,7 +3359,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Troyes",
@@ -3341,7 +3368,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Lorient",
@@ -3350,7 +3377,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Nantes",
@@ -3359,7 +3386,7 @@
       "score2": "0"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Nice",
@@ -3368,7 +3395,7 @@
       "score2": "1"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Paris-SG",
@@ -3377,7 +3404,7 @@
       "score2": "3"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Brest",
@@ -3386,7 +3413,7 @@
       "score2": "2"
     },
     {
-      "Journée": "Journée 38",
+      "round": "38",
       "date": "03/06/23",
       "hour": "",
       "team1": "Reims",

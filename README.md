@@ -1,6 +1,11 @@
 # Create Results
 
-Aperçu
+## Version 1.0.0
+
+Rajout d'une page "table" qui va calculer automatiquement les résultats et renvoyer un classement.
+
+## Aperçu
+
 L'application Create Results affiche les résultats de matchs à partir d'un fichier JSON, qui a été initialement créé à partir d'un fichier CSV contenant les données des matchs. Cette conversion permet de traiter facilement les données dans un format JSON.
 
 ## Installation
@@ -27,9 +32,9 @@ L'application Create Results affiche les résultats de matchs à partir d'un fic
 
 ## Utilisation
 
-Lancez l'application en local sur votre terminal en utilisant la commande suivante :
-npm run dev
+- Lancez l'application en local sur votre terminal en utilisant la commande suivante :
+  npm run dev
 
-Accédez ensuite à l'URL indiquée.
+- Accédez ensuite à l'URL indiquée.
 
-Vous devriez maintenant voir les résultats de matchs affichés sur la page HTML, basés sur le fichier JSON converti.
+- Vous devriez maintenant voir les résultats des matchs, ainsi que le classement, affichés sur la page HTML, basés sur le fichier JSON converti.

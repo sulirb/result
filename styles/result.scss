@@ -1,8 +1,10 @@
 body {
   max-height: 500px;
-  background-color: black;
+  background-color: #1d1d1b;
   color: beige;
 }
+
+@import url(https://db.onlinewebfonts.com/c/93a467f70a3e7b27a9b52a686f351dbe?family=DIN+Next+LT+Pro+Regular);
 
 h1 {
   color: blue;
@@ -18,29 +20,50 @@ h1 {
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
+  h2 {
+    margin-block-start: 0;
+    border-top: 1px white solid;
+    width: 40%;
+    text-align: center;
+    padding-top: 4em;
+  }
+  .no-border {
+    border-top: none;
+  }
 }
 
 .score {
-  width: 25%;
+  width: 40%;
   display: flex;
   flex-direction: row;
-  border: 2px solid white;
+  border-top: 1px solid #ddd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 40px;
+  min-height: 69px;
+  padding: 0;
   p {
-    margin: 0.1em;
+    margin: 0 0.5em;
+    font-family: "DIN Next LT Pro Regular";
   }
   .finalScore {
-    font-family: impact;
-    margin: 0 0.2em;
+    font-family: "DIN Next LT Pro Regular";
+    font-size: 20px;
+    margin-bottom: 2em;
     width: 10%;
     text-align: center;
+    background-color: #3c3c3b;
+  }
+  h2 {
+    font-family: "DIN Next LT Pro Regular";
   }
   .team1 {
-    width: 25%;
-    margin-left: 2em;
+    width: 18%;
+    text-align: end;
   }
   .team2 {
     width: 25%;
-    text-align: end;
+    text-align: start;
   }
 }
 
