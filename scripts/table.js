@@ -1,19 +1,15 @@
-async function fetchResult() {
-  const response = await fetch("/assets/ligue-1-22-23.json");
-  const data = await response.json();
-  return data;
-}
+import fetchResult from "./fetchCSV.js";
 
 async function main() {
   const data = await fetchResult();
 
   let teamStats = {};
 
-  const halfLength = Math.ceil(data.matches.length / 2);
+  const halfLength = Math.ceil(data.length / 2);
 
-  const bothHalves = data.matches;
-  const firstHalf = data.matches.slice(0, halfLength);
-  const secondHalf = data.matches.slice(halfLength);
+  const bothHalves = data;
+  const firstHalf = data.slice(0, halfLength);
+  const secondHalf = data.slice(halfLength);
 
   // Parcourir chaque match
   bothHalves.forEach((match) => {
@@ -58,7 +54,7 @@ async function main() {
       teamStats[team1].losses += 1;
     }
 
-    // Mettre à jour les statistiques des équipes à l'exterieur
+    /**/ // Mettre à jour les statistiques des équipes à l'exterieur
     teamStats[team2].goalsFor += goalsTeam2;
     teamStats[team2].goalsAgainst += goalsTeam1;
     if (matchPlayed) {
@@ -72,7 +68,7 @@ async function main() {
       teamStats[team2].draws += 1;
     } else if (goalsTeam1 > goalsTeam2) {
       teamStats[team2].losses += 1;
-    }
+    } /**/
   });
 
   // Trier les équipes en fonction du nombre de points, puis du différentiel de buts
