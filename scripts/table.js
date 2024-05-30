@@ -1,7 +1,7 @@
 import fetchResult from "./fetchCSV.js";
 
 async function main() {
-  const data = await fetchResult();
+  const { data } = await fetchResult();
 
   let teamStats = {};
 
