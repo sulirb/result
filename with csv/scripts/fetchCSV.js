@@ -24,7 +24,7 @@ function parseCSV(data) {
 }
 
 async function fetchResult() {
-  const url = "/assets/Ligue_1_23-24.csv"; // Remplacer par l'URL de votre fichier CSV
+  const url = "/assets/Superliga_24-25.csv"; // Remplacer par l'URL de votre fichier CSV
   const league = url
     .split(/[/\\]/)
     .pop()
