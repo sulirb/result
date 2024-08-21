@@ -1,0 +1,181 @@
+Journée,date,hour,team1,team2,score1,score2
+Journée 1,29-07-2023,21h00,Cousolre,Maubeuge,0,3
+Journée 1,30-07-2023,15h00,Le Quesnoy,Jeumont,0,1
+Journée 1,30-07-2023,18h00,Avesnes,Bavay,3,0
+Journée 1,30-07-2023,21h00,Hautmont,Fourmies,0,2
+Journée 1,31-07-2023,20h15,Aulnoye,Hirson,2,0
+Journée 2,05-08-2023,16h00,Fourmies ,Aulnoye,3,2
+Journée 2,05-08-2023,18h30,Bavay ,Le Quesnoy,2,1
+Journée 2,05-08-2023,21h00,Maubeuge ,Avesnes,5,0
+Journée 2,06-08-2023,18h00,Hirson ,Cousolre,4,1
+Journée 2,06-08-2023,21h00,Jeumont ,Hautmont,0,1
+Journée 3,12-08-2023,18h30,Maubeuge ,Bavay,4,0
+Journée 3,12-08-2023,21h00,Cousolre ,Fourmies,3,0
+Journée 3,13-08-2023,18h30,Avesnes ,Hirson,1,2
+Journée 3,13-08-2023,21h00,Aulnoye ,Jeumont,1,0
+Journée 3,14-08-2023,20h15,Hautmont ,Le Quesnoy,3,1
+Journée 4,19-08-2023,16h00,Hirson,Maubeuge,1,2
+Journée 4,19-08-2023,18h30,Le Quesnoy,Aulnoye,2,1
+Journée 4,19-08-2023,21h00,Fourmies,Avesnes,0,2
+Journée 4,20-08-2023,18h00,Bavay,Hautmont,1,0
+Journée 4,20-08-2023,21h00,Jeumont,Cousolre,3,0
+Journée 5,26-08-2023,18h30,Cousolre,Le Quesnoy,1,1
+Journée 5,26-08-2023,21h00,Hirson,Bavay,1,1
+Journée 5,27-08-2023,21h00,Maubeuge,Fourmies,10,0
+Journée 5,27-09-2023,20h15,Aulnoye,Hautmont,1,3
+Journée 5,28-09-2023,20h15,Avesnes,Jeumont,0,1
+Journée 6,02-09-2023,18h30,Bavay,Aulnoye,2,1
+Journée 6,02-09-2023,21h00,Fourmies,Hirson,0,0
+Journée 6,03-09-2023,18h00,Hautmont,Cousolre,3,1
+Journée 6,03-09-2023,21h00,Jeumont,Maubeuge,1,2
+Journée 6,04-09-2023,20h15,Le Quesnoy,Avesnes,0,2
+Journée 7,15-09-2023,21h00,Maubeuge,Le Quesnoy,3,1
+Journée 7,16-09-2023,18h30,Fourmies,Bavay,1,1
+Journée 7,16-09-2023,21h00,Avesnes,Hautmont,2,2
+Journée 7,17-09-2023,18h00,Cousolre,Aulnoye,1,0
+Journée 7,17-09-2023,21h00,Hirson,Jeumont,3,2
+Journée 8,23-09-2023,16h00,Cousolre,Bavay,0,1
+Journée 8,23-09-2023,18h30,Le Quesnoy,Hirson,2,1
+Journée 8,23-09-2023,21h00,Hautmont,Maubeuge,1,2
+Journée 8,24-09-2023,18h00,Aulnoye,Avesnes,1,1
+Journée 8,24-09-2023,21h00,Jeumont,Fourmies,2,0
+Journée 9,30-09-2023,16h00,Fourmies,Le Quesnoy,1,0
+Journée 9,30-09-2023,18h30,Aulnoye,Maubeuge,1,5
+Journée 9,30-09-2023,21h00,Hirson,Hautmont,0,1
+Journée 9,31-09-2023,18h00,Avesnes,Cousolre,2,0
+Journée 9,31-09-2023,21h00,Bavay,Jeumont,1,1
+Journée 10,06-10-2023,16h00,Le Quesnoy,Bavay ,2,0
+Journée 10,06-10-2023,18h30,Cousolre,Hirson ,2,3
+Journée 10,06-10-2023,21h00,Hautmont,Jeumont ,0,1
+Journée 10,07-10-2023,18h00,Aulnoye,Fourmies ,0,0
+Journée 10,07-10-2023,21h00,Avesnes,Maubeuge ,0,1
+Journée 11,21-10-2023,16h00,Bavay,Maubeuge ,1,3
+Journée 11,21-10-2023,18h30,Fourmies,Cousolre ,2,0
+Journée 11,21-10-2023,21h00,Hirson,Avesnes ,2,1
+Journée 11,22-10-2023,18h00,Le Quesnoy,Hautmont ,1,3
+Journée 11,22-10-2023,21h00,Jeumont,Aulnoye ,0,1
+Journée 12,28-10-2023,16h00,Cousolre,Jeumont,2,1
+Journée 12,28-10-2023,18h30,Aulnoye,Le Quesnoy,1,1
+Journée 12,28-10-2023,21h00,Hautmont,Bavay,2,0
+Journée 12,29-10-2023,18h00,Maubeuge,Hirson,3,2
+Journée 12,29-10-2023,21h00,Avesnes,Fourmies,2,2
+Journée 13,03-11-2023,21h00,Fourmies,Maubeuge,0,2
+Journée 13,04-11-2023,18h30,Le Quesnoy,Cousolre,4,1
+Journée 13,04-11-2023,21h00,Jeumont,Avesnes,2,0
+Journée 13,05-11-2023,18h00,Bavay,Hirson,2,4
+Journée 13,05-11-2023,21h00,Hautmont,Aulnoye,0,0
+Journée 14,11-11-2023,16h00,Cousolre,Hautmont,2,0
+Journée 14,11-11-2023,18h30,Aulnoye,Bavay,5,0
+Journée 14,11-11-2023,21h00,Maubeuge,Jeumont,4,0
+Journée 14,12-11-2023,18h00,Hirson,Fourmies,1,1
+Journée 14,12-11-2023,21h00,Avesnes,Le Quesnoy,2,1
+Journée 15,24-11-2023,21h00,Le Quesnoy,Maubeuge,2,3
+Journée 15,25-11-2023,18h30,Bavay,Fourmies,2,0
+Journée 15,25-11-2023,21h00,Hautmont,Avesnes,1,1
+Journée 15,26-11-2023,18h00,Aulnoye,Cousolre,3,2
+Journée 15,26-11-2023,21h00,Jeumont,Hirson,1,0
+Journée 16,02-12-2023,16h00,Hirson,Le Quesnoy,2,1
+Journée 16,02-12-2023,18h30,Bavay,Cousolre,3,1
+Journée 16,02-12-2023,21h00,Maubeuge,Hautmont,6,1
+Journée 16,03-12-2023,18h00,Avesnes,Aulnoye,2,1
+Journée 16,03-12-2023,21h00,Fourmies,Jeumont,0,0
+Journée 17,09-12-2023,16h00,Cousolre,Avesnes,1,0
+Journée 17,09-12-2023,18h30,Le Quesnoy,Fourmies,2,4
+Journée 17,09-12-2023,21h00,Maubeuge,Aulnoye,2,1
+Journée 17,10-12-2023,18h00,Jeumont,Bavay,2,0
+Journée 17,10-12-2023,21h00,Hautmont,Hirson,2,3
+Journée 18,16-12-2023,16h00,Hirson,Aulnoye,2,0
+Journée 18,16-12-2023,18h30,Maubeuge,Cousolre,7,0
+Journée 18,16-12-2023,21h00,Jeumont,Le Quesnoy,1,1
+Journée 18,17-12-2023,18h00,Bavay,Avesnes,2,2
+Journée 18,17-12-2023,21h00,Fourmies,Hautmont,4,2
+Journée 19,23-12-2023,16h00,Avesnes,Jeumont,3,2
+Journée 19,23-12-2023,18h30,Le Quesnoy,Hautmont,4,3
+Journée 19,23-12-2023,21h00,Hirson,Cousolre,1,1
+Journée 19,24-12-2023,14h00,Fourmies,Bavay,2,2
+Journée 19,25-12-2023,21h00,Aulnoye,Maubeuge,0,2
+Journée 20,26-12-2023,18h00,Cousolre,Avesnes,3,2
+Journée 20,26-12-2023,20h15,Jeumont,Hirson,0,3
+Journée 20,27-12-2023,20h15,Hautmont,Fourmies,0,1
+Journée 20,28-12-2023,18h00,Le Quesnoy,Aulnoye,1,0
+Journée 20,28-12-2023,20h15,Bavay,Maubeuge,1,4
+Journée 21,29-12-2023,21h00,Jeumont,Cousolre,1,2
+Journée 21,30-12-2023,15h00,Hirson,Hautmont,2,1
+Journée 21,30-12-2023,17h30,Fourmies,Avesnes,1,0
+Journée 21,31-12-2023,14h00,Maubeuge,Le Quesnoy,3,1
+Journée 21,31-12-2023,16h15,Aulnoye,Bavay,0,0
+Journée 22,03-02-2024,16h00,Le Quesnoy,Jeumont,1,4
+Journée 22,03-02-2024,18h30,Cousolre,Bavay,1,2
+Journée 22,03-02-2024,21h00,Hautmont,Aulnoye,3,2
+Journée 22,04-02-2024,18h00,Avesnes,Maubeuge,1,1
+Journée 22,04-02-2024,21h00,Hirson,Fourmies,2,2
+Journée 23,09-02-2024,21h00,Maubeuge,Hautmont,3,0
+Journée 23,10-02-2024,18h30,Fourmies,Jeumont,0,1
+Journée 23,10-02-2024,21h00,Avesnes,Hirson,3,1
+Journée 23,11-02-2024,18h00,Bavay,Le Quesnoy,2,2
+Journée 23,11-02-2024,21h00,Cousolre,Aulnoye,0,0
+Journée 24,17-02-2024,16h00,Jeumont,Bavay,0,5
+Journée 24,17-02-2024,18h30,Le Quesnoy,Avesnes,1,0
+Journée 24,17-02-2024,21h00,Aulnoye,Hirson,1,0
+Journée 24,18-02-2024,18h00,Hautmont,Cousolre,5,1
+Journée 24,18-02-2024,21h00,Maubeuge,Fourmies,2,0
+Journée 25,24-02-2024,16h00,Cousolre,Le Quesnoy,0,2
+Journée 25,24-02-2024,18h30,Fourmies,Aulnoye,1,1
+Journée 25,24-02-2024,21h00,Jeumont,Hautmont,2,2
+Journée 25,25-02-2024,18h00,Avesnes,Bavay,3,0
+Journée 25,25-02-2024,21h00,Hirson,Maubeuge,2,4
+Journée 26,02-03-2024,16h00,Bavay,Hirson,0,2
+Journée 26,02-03-2024,18h30,Maubeuge,Cousolre,5,0
+Journée 26,02-03-2024,21h00,Le Quesnoy,Fourmies,0,0
+Journée 26,03-03-2024,18h00,Hautmont,Avesnes,1,2
+Journée 26,03-03-2024,21h00,Aulnoye,Jeumont,3,1
+Journée 27,09-03-2024,16h00,Bavay,Hautmont,2,1
+Journée 27,09-03-2024,18h30,Fourmies,Cousolre,1,0
+Journée 27,09-03-2024,21h00,Hirson,Le Quesnoy,0,0
+Journée 27,10-03-2024,18h00,Aulnoye,Avesnes,2,0
+Journée 27,10-03-2024,21h00,Jeumont,Maubeuge,1,0
+Journée 28,15-03/2023,21h00,Avesnes,Cousolre,2,0
+Journée 28,16-03-2024,16h00,Aulnoye,Le Quesnoy,2,1
+Journée 28,16-03-2024,18h30,Hirson,Jeumont,0,1
+Journée 28,16-03-2024,21h00,Fourmies,Hautmont,1,0
+Journée 28,17-03-2024,18h00,Maubeuge,Bavay,4,0
+Journée 29,30-03-2024,18h00,Bavay,Aulnoye,2,1
+Journée 29,31-03-2024,21h00,Avesnes,Fourmies,3,2
+Journée 29,01-04-2024,15h00,Le Quesnoy,Maubeuge,0,2
+Journée 29,01-04-2024,18h00,Cousolre,Jeumont,1,0
+Journée 29,01-04-2024,21h00,Hautmont,Hirson,0,0
+Journée 30,06-04-2024,16h00,Jeumont,Le Quesnoy,3,1
+Journée 30,06-04-2024,18h30,Bavay,Cousolre,1,1
+Journée 30,07-04-2024,21h00,Aulnoye,Hautmont,2,0
+Journée 30,07-04-2024,18h00,Fourmies,Hirson,1,0
+Journée 30,07-04-2024,21h00,Maubeuge,Avesnes,1,1
+Journée 31,13-04-2024,16h00,Le Quesnoy,Bavay,2,1
+Journée 31,13-04-2024,21h00,Hirson,Avesnes,0,1
+Journée 31,14-04-2024,18h00,Aulnoye,Cousolre,3,1
+Journée 31,14-04-2024,21h00,Jeumont,Fourmies,0,0
+Journée 31,24-04-2024,20h00,Hautmont,Maubeuge,2,0
+Journée 32,20-04-2024,16h00,Cousolre,Hautmont,1,4
+Journée 32,20-04-2024,18h30,Avesnes,Le Quesnoy,2,0
+Journée 32,20-04-2024,21h00,Hirson,Aulnoye,2,1
+Journée 32,21-04-2024,18h00,Bavay,Jeumont,0,0
+Journée 32,21-04-2024,21h00,Fourmies,Maubeuge,2,5
+Journée 33,27-04-2024,16h00,Bavay,Avesnes,,
+Journée 33,27-04-2024,18h30,Hautmont,Jeumont,,
+Journée 33,27-04-2024,21h00,Aulnoye,Fourmies,,
+Journée 33,28-04-2024,18h00,Maubeuge,Hirson,,
+Journée 33,28-04-2024,21h00,Le Quesnoy,Cousolre,,
+Journée 34,04-05-2024,16h00,Avesnes,Hautmont,,
+Journée 34,04-05-2024,18h30,Hirson,Bavay,,
+Journée 34,04-05-2024,21h00,Fourmies,Le Quesnoy,,
+Journée 34,05-05-2024,18h00,Cousolre,Maubeuge,,
+Journée 34,05-05-2024,21h00,Jeumont,Aulnoye,,
+Journée 35,11-05-2024,20h30,Hautmont,Bavay,,
+Journée 35,11-05-2024,20h45,Le Quesnoy,Hirson,,
+Journée 35,11-05-2024,21h00,Maubeuge,Jeumont,,
+Journée 35,11-05-2024,21h15,Cousolre,Fourmies,,
+Journée 35,11-05-2024,21h30,Avesnes,Aulnoye,,
+Journée 36,19-05-2024,21h00,Jeumont,Avesnes,,
+Journée 36,19-05-2024,21h00,Hautmont,Le Quesnoy,,
+Journée 36,19-05-2024,21h00,Cousolre,Hirson,,
+Journée 36,19-05-2024,21h00,Bavay,Fourmies,,
+Journée 36,19-05-2024,21h00,Maubeuge,Aulnoye,,
