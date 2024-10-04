@@ -10,6 +10,8 @@ async function main() {
   const bothHalves = data;
   const firstHalf = data.slice(0, halfLength);
   const secondHalf = data.slice(halfLength);
+  /*const redPool = data.filter((game) => game.pool === "red");
+  const bluePool = data.filter((game) => game.pool === "blue");*/
 
   // Parcourir chaque match
   bothHalves.forEach((match) => {
@@ -38,7 +40,7 @@ async function main() {
     };
 
     const matchPlayed = score1 !== "" && score2 !== "";
-    // Mettre à jour les statistiques des équipes à domicile
+    /**/ // Mettre à jour les statistiques des équipes à domicile
     teamStats[team1].goalsFor += goalsTeam1;
     teamStats[team1].goalsAgainst += goalsTeam2;
     if (matchPlayed) {
@@ -52,7 +54,7 @@ async function main() {
       teamStats[team1].draws += 1;
     } else if (goalsTeam2 > goalsTeam1) {
       teamStats[team1].losses += 1;
-    }
+    } /**/
 
     /**/ // Mettre à jour les statistiques des équipes à l'exterieur
     teamStats[team2].goalsFor += goalsTeam2;
