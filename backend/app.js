@@ -17,10 +17,10 @@ app.use(express.json());
 app.use(helmet());
 
 const connection = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "sullivan",
-  database: "foot",
+  host: "***",
+  user: "***",
+  password: "***",
+  database: "***",
 });
 
 // Connecter la base de données
@@ -36,7 +36,7 @@ connection.connect((err) => {
 });
 
 app.get("/", (req, res) => {
-  let allgames = `SELECT * FROM Superliga_24_25 ORDER BY round ASC, date ASC, hour ASC`;
+  let allgames = `SELECT * FROM <TABLE_NAME> ORDER BY round ASC, date ASC, hour ASC`;
 
   connection.query(allgames, [true], (error, results, fields) => {
     if (error) {
