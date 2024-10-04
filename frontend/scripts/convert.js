@@ -1,7 +1,7 @@
 import csv from "csvtojson";
 import fs from "fs";
 
-// Chemin du fichier CSV d'entrée
+// Chemin du fichier CSV d'entrée.
 const csvFilePath = "../assets/superliga2324.csv";
 
 // Lire le fichier CSV et le convertir en JSON
