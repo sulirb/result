@@ -1,0 +1,18 @@
+@import url(https://db.onlinewebfonts.com/c/93a467f70a3e7b27a9b52a686f351dbe?family=DIN+Next+LT+Pro+Regular);
+body {
+  max-height: 500px;
+  background-color: black;
+  color: beige;
+  font-family: "DIN Next LT Pro Regular";
+}
+
+table {
+  width: 50%;
+  th {
+    line-height: 2em;
+  }
+  td {
+    text-align: center;
+    line-height: 1.5em;
+  }
+}
