@@ -10,8 +10,8 @@ async function main() {
   const bothHalves = data;
   const firstHalf = data.slice(0, halfLength);
   const secondHalf = data.slice(halfLength);
-  /*const redPool = data.filter((game) => game.pool === "red");
-  const bluePool = data.filter((game) => game.pool === "blue");*/
+  const redPool = data.filter((game) => game.pool === "red");
+  const bluePool = data.filter((game) => game.pool === "blue");
 
   // Parcourir chaque match
   bothHalves.forEach((match) => {
