@@ -1,5 +1,5 @@
-round,date,hour,team1,team2 ,score1,score2
-1,2024-08-16,19:45,Le Havre,Paris SG,1,4
+round,date,hour,team1,team2,score1,score2
+1,16/08/2024,19:45,Le Havre,Paris SG,1,4
 1,17/08/2024,16:00,Brest,Marseille,1,5
 1,17/08/2024,18:00,Reims,Lille,0,2
 1,17/08/2024,20:00,Monaco,St Etienne,1,0
