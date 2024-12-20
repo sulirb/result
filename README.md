@@ -8,6 +8,10 @@ Rajout d'une page "table" qui va calculer automatiquement les résultats et renv
 
 Remplacement de la conversion CSV -> JSON pour connecter directement le script à un fichier CSV
 
+## Version 1.2.0
+
+Possibilité de naviguer entre plusieurs fichiers sans avoir à modifier le code javascript
+
 ## Aperçu
 
 L'application Create Results affiche les résultats de matchs à partir d'un fichier CSV. Cette conversion permet de traiter facilement les données dans un format JSON.
@@ -32,7 +36,7 @@ L'application Create Results affiche les résultats de matchs à partir d'un fic
 
 Pour plus de précisions, veuillez vous referrer au fichier "/assets/Ligue_1_23-24.csv" faisant office de template.
 
-- Dans le fichier "/scripts/fetchCSV.js", rajoutez, dans la fonction "fetchResult()" l'adresse du CSV que vous avez placé dans le dossier "assets" et dont vous voulez obtenir les résultats sous forme de page web.
+- Dans le fichier "/assets/csv_files.json", rajoutez votre fichier comme dans l'exemple.
 
 ## Utilisation
 
