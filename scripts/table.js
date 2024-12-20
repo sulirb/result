@@ -1,7 +1,48 @@
-import fetchResult from "./fetchCSV.js";
+import fetchCSV from "./fetchCSV";
 
-async function main() {
-  const { data } = await fetchResult();
+const { fetchResult, loadCSVList } = fetchCSV;
+
+document.addEventListener("DOMContentLoaded", () => {
+  // Charger la liste des fichiers CSV
+  loadCSVList();
+
+  // Gestion du formulaire
+  const form = document.getElementById("csvForm");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    const select = document.getElementById("csvSelect");
+    const selectedFile = select.value;
+
+    if (selectedFile) {
+      try {
+        // Effacer les résultats précédents avant d'afficher les nouveaux
+        clearResults();
+
+        // Charger les données du fichier sélectionné
+        await main(selectedFile);
+
+        console.log("Fichier CSV chargé avec succès !");
+      } catch (error) {
+        console.error("Erreur lors du chargement du fichier CSV :", error);
+        alert("Erreur lors du chargement du fichier CSV. Veuillez réessayer.");
+      }
+    } else {
+      alert("Veuillez sélectionner un fichier CSV.");
+    }
+  });
+});
+
+// Fonction pour effacer les résultats précédents
+function clearResults() {
+  const table = document.querySelector(".table");
+
+  // Effacer le classement de la ligue
+  table.textContent = "";
+}
+
+async function main(fileName) {
+  const { data } = await fetchResult(fileName);
 
   let teamStats = {};
 
@@ -140,5 +181,3 @@ async function main() {
   tbl.appendChild(tblBody);
   table.appendChild(tbl);
 }
-
-main();
