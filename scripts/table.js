@@ -2,7 +2,23 @@ import fetchCSV from "./fetchCSV";
 
 const { fetchResult, loadCSVList } = fetchCSV;
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async () => {
+  const championship = localStorage.getItem("selectedChampionship");
+
+  if (championship) {
+    try {
+      // Charger et afficher le classement du championnat
+      await main(championship);
+    } catch (error) {
+      console.error("Erreur lors du chargement du classement :", error);
+      alert("Impossible de charger le classement. Veuillez réessayer.");
+    }
+  } else {
+    alert(
+      "Aucun championnat sélectionné. Veuillez choisir un championnat sur la page principale."
+    );
+  }
+
   // Charger la liste des fichiers CSV
   loadCSVList();
 
@@ -16,6 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (selectedFile) {
       try {
+        localStorage.setItem("selectedChampionship", selectedFile);
         // Effacer les résultats précédents avant d'afficher les nouveaux
         clearResults();
 
